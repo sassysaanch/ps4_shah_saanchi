@@ -12,6 +12,3 @@ mrc_pivot <- mrc_subset %>% pivot_longer(cols = c(par_q1, par_q2, par_q3, par_q4
                                          names_prefix = 'par_',
                                          values_to = 'fraction')
 
-#My guilty pleasure includes shopping therapy at Century City and ending the 
-#trip with the best hot dark chocolate you could find in LA aka Eataly. 
-# In the end, I am poorer than I was.
